@@ -1,0 +1,12 @@
+{
+    "name": "farhod/dars",
+    "authors": [
+        {
+            "name": "FarhodToshtemirov",
+            "email": "61189712+FarhodToshtemirov@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "nesbot/carbon": "^2.41"
+    }
+}
